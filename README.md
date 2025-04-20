@@ -100,3 +100,12 @@ This is a basic implementation and can be further enhanced with the following fe
 * **Date and Time:** Include functionality for selecting travel dates and times.
 * **Error Handling:** Implement try-catch blocks to handle potential exceptions.
 * **User Interface:** Consider developing a graphical user interface (GUI) for a more user-friendly experience.
+---
+## Author
+
+**Md. Junayed Bin Karim**  
+-  Student, Daffodil International University  
+-  GitHub: [Junayed-Bin-Karim](https://github.com/Junayed-Bin-Karim)  
+-  LinkedIn: [junayed-bin-karim](https://www.linkedin.com/in/junayed-bin-karim-47b755270/)  
+- Email: karim22205101667@diu.edu.bd  
+---
